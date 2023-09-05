@@ -1,6 +1,7 @@
 ## First add `.env.local`
 
-```cp .env.local.example .env.local
+```
+cp .env.local.example .env.local
 ```
 and edit `.env.local`
 
@@ -21,7 +22,8 @@ SENDBLUE_SECRET=
 
 ## To run:
 
-```npm install
+```
+npm install
 npm run dev
 ```
 
